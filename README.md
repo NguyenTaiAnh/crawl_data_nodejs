@@ -7,5 +7,6 @@
 - mysql (connect db): https://www.npmjs.com/package/mysql
 
 ### run project
+- npm install
 - create new folder name "img"
 - node index.js
